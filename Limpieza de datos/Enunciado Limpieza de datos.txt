@@ -1,0 +1,8 @@
+Proceso de limpieza de datos que consiste en:
+1. Análisis exploratorio de los datos
+2. Análisis de completitud y validez de la información por filas y columnas
+3. imputación datos con KNN y los dos valores más cercanos
+4. Exportación de datos limpios e imputados
+5. Transformación de los datos
+6. Exportar datos transformados
+7. Análisis de las variaciones porcentuales de los precios de los activos
