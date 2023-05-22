@@ -1,0 +1,6 @@
+Proceso de conexión con spreadsheets:
+1. importando la hoja y su información de Google sheets
+2. Convirtiendo esa información en un dataframe
+3. Obteniendo los últimos 5 días de información de los simbolos listados
+4. Anexando información fresca al histórico
+5. Eliminando información de la hoja para escribir los nuevos datos
