@@ -13,7 +13,7 @@ variables de interés relacionadas con el índice S&P 500, adicionalmente este p
 ánimo de generar una diversificación de portafolios más eficiente y de esta forma poder lograr incrementar el margen de rentabilidad proveniente de las inversiones realizadas por la mesa de dinero. 
 
 # Desarrollo de la propuesta
-En la primera parte se hace una carga y limpieza de los datos, luego el desempeño y analisis de los modelos y por último se encuantra
+En la primera parte se hace una carga y limpieza de los datos, luego el desempeño y analisis de los modelos y por último se encuentra
 la parte de las predicciones. Este proceso se encuantra descrito en las siguinetes carpetas:
 
 # Carga de los datos:
@@ -23,6 +23,9 @@ guarda  la información en ella, la convierte en un  dataframe  y la almacena. E
 7:00 pm. 
 
 En este dataframe encontramos todos los simbolos del S&P 500, este registro de los simbolos se hace sobre los últimos 5 dias y se 
-concatena con la base guardada anteriormente. 
+concatena con la base guardada anteriormente. se eliminan duplicados para no incurrir en costos computacionales elevados y se obtiene 
+un dataframe denominado simbolos. Finalmente se limpia la hoja de spreadsheets para comenzar de nuevo el ciclo de carga de los datos.
+
+# Limpieza de datos:
 
 
