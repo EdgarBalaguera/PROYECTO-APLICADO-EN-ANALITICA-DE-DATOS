@@ -27,7 +27,12 @@ concatena con la base guardada anteriormente. se eliminan duplicados para no inc
 un dataframe denominado simbolos. Finalmente se limpia la hoja de spreadsheets para comenzar de nuevo el ciclo de carga de los datos.
 
 # Limpieza de datos:
-luego de realizada la carga del dataframe y transcurrido el tiempo necesario (sobre las 7:30 pm), se conecta con la API de spreadsheets, luego abre la información actualizada y establece la fecha como el indice del dataframe. Una vez realizada esta transformaciòn se comienza a hacer el análisis exploratorio de los datos, se verifica la cantidad de datos nulos y la imputabilidad de variables. El proceso de imputabilidad se lleva a cabo mediante KNNImputer tomando como vecinos k=2; es decir, 
+luego de realizada la carga del dataframe y transcurrido el tiempo necesario (sobre las 7:30 pm), se conecta con la API de spreadsheets, luego abre la información actualizada y establece la fecha como el indice del dataframe. Una vez realizada esta transformaciòn se comienza a hacer el análisis exploratorio de los datos, se verifica la cantidad de datos nulos, se analiza la cantidad de datos a eliminar y se realiza la imputabilidad de variables. El proceso de imputabilidad se lleva a cabo mediante KNNImputer tomando como vecinos k=2; es decir,tomando el día anterior y posterior al dato faltante o los datos más cercanos en caso de no existir los primeros. 
+
+Realizado el proceso de limpieza e imputación, se exporta esta data a un archivo denominado SP_500_data_clean, luego se transforman los datos obteniendo la variación porcentual y se envian a un nuevo archivo denominado SP_500_data_pct.
+
+# Modelos y análisis:
+
 
 
 
