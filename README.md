@@ -32,6 +32,8 @@ luego de realizada la carga del dataframe y transcurrido el tiempo necesario (so
 Realizado el proceso de limpieza e imputación, se exporta esta data a un archivo denominado SP_500_data_clean, luego se transforman los datos obteniendo la variación porcentual y se envian a un nuevo archivo denominado SP_500_data_pct.
 
 # Modelos y análisis:
+El proceso de selección de modelo se realiza bajo demanda, en este caso se analizan dos modelos. Primero se hace un análisis historico mediante una descripciòn gráfica del portafolio de activos de preferencia de la mesa de mercado del grupo Stanley, luego se hace la descomposición de la serie de tiempo y hacemos el respectivo análisis de cada una de ellas mediante  estacionalidad, tendencia y ruido. posteriormente se realiza un analisis de los correlogramas y los gráficos de autocorrelación (ACF) y autocorrelación parcial (PACF) llegando a la conclusión de que pueden ser modeladas mediante procesos autoregresivos. Se analizan tambien los supuestos de media y desviación estándar 
+
 
 
 
