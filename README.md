@@ -29,3 +29,4 @@ un dataframe denominado simbolos. Finalmente se limpia la hoja de spreadsheets p
 # Limpieza de datos:
 
 
+
