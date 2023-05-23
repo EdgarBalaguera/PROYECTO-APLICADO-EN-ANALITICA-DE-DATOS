@@ -17,4 +17,5 @@ En la primera parte se hace una carga y limpieza de los datos, luego el desempe�
 la parte de las predicciones. Este proceso se encuantra descrito en las siguinetes carpetas:
 
 # Carga de datos:
-Dentro de la carpeta se encuantra el archivo .
+Dentro de la carpeta se encuentra el archivo "Yahoo_finance.ipynb" en este notebook se describe el proceso de cargue y actualización
+de los datos. Este proceso se hace a través de una conexión con una hoja de spreadsheets para utilizarla como base de datos y guardar información de forma incremental. Primero se obtiene un primer historico y se almacena en la hoja, cada vez que se ejecuta el codigo, guarda  la información en la hoja, la convierte en un  dataframe  y lo almacena. Este proceso se realiza todos los dias sobre las 7:00 pm. 
