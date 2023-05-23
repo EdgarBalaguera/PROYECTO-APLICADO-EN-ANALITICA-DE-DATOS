@@ -9,7 +9,7 @@ corredores en conjunto con otras entidades financieras, analizar tendencias del 
 desarrollar nuevos productos de inversión y de consumo masivo financiero.
 
 El equipo  de especialistas y asesores externos proponen la creación y desarrollo de un nuevo producto que permita la visualización histórica y a futuro de las
-variables de interés relacionadas con el índice SP&500, adicionalmente este producto debe permitir la identificación o agrupación de acciones que poseen rendimientos similares con el
+variables de interés relacionadas con el índice S&P 500, adicionalmente este producto debe permitir la identificación o agrupación de acciones que poseen rendimientos similares con el
 ánimo de generar una diversificación de portafolios más eficiente y de esta forma poder lograr incrementar el margen de rentabilidad proveniente de las inversiones realizadas por la mesa de dinero. 
 
 # Desarrollo de la propuesta
@@ -19,5 +19,10 @@ la parte de las predicciones. Este proceso se encuantra descrito en las siguinet
 # Carga de los datos:
 Dentro de la carpeta se encuentra el archivo "Yahoo_finance.ipynb" en este notebook se describe el proceso de cargue y actualización
 de los datos. Este proceso se hace a través de una conexión con una hoja de spreadsheets para utilizarla como base de datos y guardar información de forma incremental. Primero se obtiene un primer historico y se almacena en la hoja, cada vez que se ejecuta el codigo, 
-guarda  la información en la hoja, la convierte en un  dataframe  y lo almacena. Este proceso se realiza todos los dias sobre las 
+guarda  la información en ella, la convierte en un  dataframe  y la almacena. Este proceso se realiza todos los dias sobre las 
 7:00 pm. 
+
+En este dataframe encontramos todos los simbolos del S&P 500, este registro de los simbolos se hace sobre los últimos 5 dias y se 
+concatena con la base guardada anteriormente. 
+
+
