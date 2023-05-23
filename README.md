@@ -11,3 +11,6 @@ desarrollar nuevos productos de inversión y de consumo masivo financiero.
 El equipo  de especialistas y asesores externos proponen la creación y desarrollo de un nuevo producto que permita la visualización histórica y a futuro de las
 variables de interés relacionadas con el índice SP&500, adicionalmente este producto debe permitir la identificación o agrupación de acciones que poseen rendimientos similares con el
 ánimo de generar una diversificación de portafolios más eficiente y de esta forma poder lograr incrementar el margen de rentabilidad proveniente de las inversiones realizadas por la mesa de dinero. 
+
+# Desarrollo de la propuesta
+En la primera parte se hace una carga y limpieza de los datos
