@@ -39,6 +39,10 @@ Una vez realizado el análisis anterior se procede a implementar modelos autoreg
 # Clusterización:
 En este proceso se realiza el cargue de los datos obtenido en la limpieza de los datos, luego se hace el cálculo de la matriz inversa de covarianza mediante el método de GraphicalLassoCV para encontrar que variaciones de precio están relacionadas condicionalmente con otras. Teniendo en cuenta estos resultados,  se realiza la clusterización teniendo en cuanta los retornos diarios, tomando como insumo esta matriz de covarianza o matriz de similitud de cambios en los precios de cierre. 
 
+# Dashboard:
+
+En esta carpeta encontramos el modelado de datos a través de Power By, para la construcción del Dashboard, Las dtas obtenidas en cada uno de los resultados después de aplicar los procesos de limpieza, implementación de los modelos y sus predicciones. 
+
 
 
 
