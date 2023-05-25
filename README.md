@@ -12,6 +12,19 @@ El equipo  de especialistas y asesores externos proponen la creación y desarrol
 variables de interés relacionadas con el índice S&P 500, adicionalmente este producto debe permitir la identificación o agrupación de acciones que poseen rendimientos similares con el
 ánimo de generar una diversificación de portafolios más eficiente y de esta forma poder lograr incrementar el margen de rentabilidad proveniente de las inversiones realizadas por la mesa de dinero. 
 
+A continuación podrán encontrar los links de acceso a:
+
+1. Presentación final de la propuesta:
+[Presentación](https://my.visme.co/v/y4z4r764-n9q834#s3)
+
+2. Herramienta:
+[Dashboard](https://uniandes.sharepoint.com/sites/ProyectoFinalAnalytics/SitePages/Estructura-de-Mercado-SP%26500.aspx)
+
+[Manual de uso]()
+
+3. Cumplimiento de requerimientos:
+[Validación de los requerimientos](https://docs.google.com/spreadsheets/d/152vxtbDjcto2DZdYNFgvnuR__Qa9SO9iTZ8wDJn4J1k/edit#gid=0)
+
 # Desarrollo de la propuesta
 En la primera parte se hace una carga y limpieza de los datos, luego el desempeño y analisis de los modelos y por último se encuentra
 la parte de las predicciones. Este proceso se encuantra descrito en las siguinetes carpetas:
