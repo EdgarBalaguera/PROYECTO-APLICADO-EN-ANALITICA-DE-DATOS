@@ -44,7 +44,11 @@ En este proceso se realiza el cargue de los datos obtenido en la limpieza de los
 En esta carpeta encontramos el modelado de datos a través de Power By, para la construcción del Dashboard, Las dtas obtenidas en cada uno de los resultados después de aplicar los procesos de limpieza, implementación de los modelos y sus predicciones. 
 
 Otro recurso importante en esta carpeta es el "Manual de usuario dashboard analítico caso stanley" esté completamente equipado para explorar y aprovechar el potencial de nuestro Tablero de Control en Power BI, y que pueda hacerlo de manera efectiva y eficiente. Esperamos que encuentre este manual útil, y le animamos a que consulte con regularidad, ya que puede ser una excelente fuente de referencia conforme se familiariza con el tablero.
-[link](https://www.youtube.com/watch?v=EWm7AnFVSAU)
+
+# Constraste de predicciones:
+
+En esta carpeta se encuentra los resultados de las predicciones de los modelos ARIMA y RF aplicados, constartados con los resultados reales en una proyección de 5 días.
+
 
 
 
