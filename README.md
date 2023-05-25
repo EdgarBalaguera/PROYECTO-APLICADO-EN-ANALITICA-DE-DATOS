@@ -45,7 +45,7 @@ En esta carpeta encontramos el modelado de datos a través de Power By, para la 
 
 Otro recurso importante en esta carpeta es el "Manual de usuario dashboard analítico caso stanley" esté completamente equipado para explorar y aprovechar el potencial de nuestro Tablero de Control en Power BI, y que pueda hacerlo de manera efectiva y eficiente. Esperamos que encuentre este manual útil, y le animamos a que consulte con regularidad, ya que puede ser una excelente fuente de referencia conforme se familiariza con el tablero.
 
-En esta carpeta encontraran en el archivo " " los links de spreadsheets en en donde se encuentran los archivos en tiempo real de cada una de las etapas para el desarrollo de la propuesta, desde la data cruda hasta el resultado de las predicciones.
+En esta carpeta encontraran en el archivo " Data en tiempo real.md " los links de spreadsheets en en donde se encuentran los archivos en tiempo real de cada una de las etapas para el desarrollo de la propuesta, desde la data cruda hasta el resultado de las predicciones.
 
 # Contraste de predicciones:
 
