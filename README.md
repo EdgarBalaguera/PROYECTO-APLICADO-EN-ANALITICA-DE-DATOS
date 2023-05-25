@@ -63,7 +63,7 @@ Otro recurso importante en esta carpeta es el "Manual de usuario dashboard anal�
 
 En esta carpeta encontraran en el archivo " Data en tiempo real.md " los links de spreadsheets en en donde se encuentran los archivos en tiempo real de cada una de las etapas para el desarrollo de la propuesta, desde la data cruda hasta el resultado de las predicciones.
 
-# [Contraste de predicciones](Contraste de predicciones):
+# [Contraste de predicciones](https://github.com/EdgarBalaguera/PROYECTO-APLICADO-EN-ANALITICA-DE-DATOS/tree/main/Contraste%20de%20predicciones):
 
 En esta carpeta se encuentra los resultados de las predicciones de los modelos ARIMA y RF aplicados, constartados con los resultados reales en una proyección de 5 días.
 
