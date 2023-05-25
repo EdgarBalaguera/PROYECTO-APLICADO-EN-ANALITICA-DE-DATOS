@@ -52,7 +52,7 @@ Primero se hace un análisis historico mediante una descripciòn gráfica del po
 
 Una vez realizado el análisis anterior se procede a implementar modelos autoregresivos integrados y de promedios moviles ARIMA y SARIMAX, este proceso utilizando la data estacionarizada por capacidad computacional. Se obtienen los resultados sobre la prueba de entrenamiento y prueba. sus metricas de desempeño y su predicción a 3o días. Este mismo proceso se repite con modelos de suavizamiento exponencial HOLTER WINTER y métodos de ensamble tipo RANDOM FOREST. Como parte del análisis se encontró, basados en las métricas de desempeño que los modelos ARIMA y RANDOM FOREST, son los que muestran mejores resultados.
 
-# Clusterización:
+# [Clusterización](Clusterización):
 En este proceso se realiza el cargue de los datos obtenido en la limpieza de los datos, luego se hace el cálculo de la matriz inversa de covarianza mediante el método de GraphicalLassoCV para encontrar que variaciones de precio están relacionadas condicionalmente con otras. Teniendo en cuenta estos resultados,  se realiza la clusterización teniendo en cuanta los retornos diarios, tomando como insumo esta matriz de covarianza o matriz de similitud de cambios en los precios de cierre. 
 
 # Dashboard:
