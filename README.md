@@ -65,7 +65,7 @@ En esta carpeta encontraran en el archivo " Data en tiempo real.md " los links d
 
 # [Contraste de predicciones](https://github.com/EdgarBalaguera/PROYECTO-APLICADO-EN-ANALITICA-DE-DATOS/tree/main/Contraste%20de%20predicciones):
 
-En esta carpeta se encuentra los resultados de las predicciones de los modelos ARIMA y RF aplicados, constartados con los resultados reales en una proyección de 5 días.
+En esta carpeta se encuentra los resultados de las predicciones de los modelos ARIMA y RF aplicados y contrastados con los resultados reales en una proyección de 5 días.
 
 
 
