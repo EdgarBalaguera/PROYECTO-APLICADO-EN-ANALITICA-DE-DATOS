@@ -15,14 +15,17 @@ variables de interés relacionadas con el índice S&P 500, adicionalmente este p
 A continuación podrán encontrar los links de acceso a:
 
 1. Presentación final de la propuesta:
+
 [Presentación](https://my.visme.co/v/y4z4r764-n9q834#s3)
 
 2. Herramienta:
+
 [Dashboard](https://uniandes.sharepoint.com/sites/ProyectoFinalAnalytics/SitePages/Estructura-de-Mercado-SP%26500.aspx)
 
-[Manual de uso]()
+[Manual de uso](https://github.com/EdgarBalaguera/PROYECTO-APLICADO-EN-ANALITICA-DE-DATOS/blob/main/Dashboard/Manual%20de%20usuario%20dashboard%20anali%CC%81tico%20caso%20stanley.pdf)
 
 3. Cumplimiento de requerimientos:
+
 [Validación de los requerimientos](https://docs.google.com/spreadsheets/d/152vxtbDjcto2DZdYNFgvnuR__Qa9SO9iTZ8wDJn4J1k/edit#gid=0)
 
 # Desarrollo de la propuesta
